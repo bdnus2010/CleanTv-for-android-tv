@@ -1,3 +1,4 @@
+<img width="1594" height="655" alt="Screenshot 2026-11-04 at 7 52 44 PM" src="https://github.com/user-attachments/assets/c19942be-b8c8-4b6e-a846-6c0d7709a329" />
 # CleanTv-for-android-tv
 Scan installed apps for known malware indicators, proxyware SDKs, and possible cryptocurrency-mining code.
 CleanTv
